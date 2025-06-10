@@ -10,6 +10,8 @@ scripts/*.json
 scripts/*.jsonl
 !scripts/gpu-computing-hackathon-submissions.json
 !scripts/ranking_plot.png
+!scripts/final_ranking_plot.png
+!scripts/gpu-computing-hackathon-final-results.json
 
 *.nsys-rep
 *.sqlite
